@@ -1,0 +1,10 @@
+.App {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+
+body {
+    background: linear-gradient(90deg, #83abe0, #6b79f7);
+    
+}
